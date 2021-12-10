@@ -1,0 +1,329 @@
+2021-12-08 19:04:57,412 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:04:57,416 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:04:57,696 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:05:09,425 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:05:21,483 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:05:26,597 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:05:26,598 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:05:52,203 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:08:25,003 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:09:06,660 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:09:58,092 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:10:43,350 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:10:46,873 [main] INFO Jombone - Started Logintest
+2021-12-08 19:10:47,948 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:10:52,900 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:10:52,901 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:10:54,732 [main] INFO Jombone - Clicked on search job 
+2021-12-08 19:10:56,710 [main] INFO Jombone - Clicked on Home button  
+2021-12-08 19:10:56,730 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-08 19:10:56,731 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:11:20,627 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:11:24,135 [main] INFO Jombone - Started Logintest
+2021-12-08 19:11:25,286 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:11:30,128 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:11:30,129 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:11:31,944 [main] INFO Jombone - Clicked on search job 
+2021-12-08 19:11:33,973 [main] INFO Jombone - Clicked on Home button  
+2021-12-08 19:11:33,987 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-08 19:11:33,989 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:11:34,325 [main] INFO Jombone - Mouse hover on me button
+2021-12-08 19:11:34,457 [main] INFO Jombone - Mouse hover Link Displayed
+2021-12-08 19:11:34,633 [main] INFO Jombone - Clicked on Logout button
+2021-12-08 19:11:35,297 [main] INFO Jombone - Clicked on Logout yes button
+2021-12-08 19:11:35,306 [main] INFO Jombone - Test Passed! Logout Successful!
+2021-12-08 19:11:35,306 [main] INFO Jombone - Completed Logout test
+2021-12-08 19:11:38,294 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:11:41,754 [main] INFO Jombone - Started Logintest
+2021-12-08 19:11:43,053 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:11:47,546 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:11:47,547 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:11:49,867 [main] INFO Jombone -  Clicked on job title 
+2021-12-08 19:11:49,939 [main] INFO Jombone - Job Location visible
+2021-12-08 19:11:53,095 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:11:56,558 [main] INFO Jombone - Started Logintest
+2021-12-08 19:11:57,614 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:12:02,396 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:12:02,397 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:12:04,167 [main] INFO Jombone - Clicked on search job 
+2021-12-08 19:12:06,133 [main] INFO Jombone - Clicked on Home button  
+2021-12-08 19:12:06,156 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-08 19:12:06,157 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:12:06,454 [main] INFO Jombone - Mouse hover on me button
+2021-12-08 19:12:06,576 [main] INFO Jombone - Mouse hover Link Displayed
+2021-12-08 19:12:09,648 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:12:13,559 [main] INFO Jombone - Started Logintest
+2021-12-08 19:12:14,714 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:12:19,287 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:12:19,288 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:12:21,163 [main] INFO Jombone - Clicked on search job 
+2021-12-08 19:12:23,286 [main] INFO Jombone - Clicked on Home button  
+2021-12-08 19:12:23,299 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-08 19:12:23,300 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:12:23,568 [main] INFO Jombone - Mouse hover on me button
+2021-12-08 19:12:23,808 [main] INFO Jombone - Mouse hover Link Displayed
+2021-12-08 19:12:24,806 [main] INFO Jombone - Clicked on My Profile 
+2021-12-08 19:12:24,826 [main] INFO Jombone - User is on Candidate Profile
+2021-12-08 19:12:27,916 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:12:31,764 [main] INFO Jombone - Started Logintest
+2021-12-08 19:12:32,920 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:12:37,653 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:12:37,655 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:12:39,311 [main] INFO Jombone - Clicked on search job 
+2021-12-08 19:12:41,425 [main] INFO Jombone - Clicked on Home button  
+2021-12-08 19:12:41,437 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-08 19:12:41,437 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:12:44,431 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:12:48,103 [main] INFO Jombone - Started Logintest
+2021-12-08 19:12:49,252 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:12:53,990 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:12:53,990 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:12:55,865 [main] INFO Jombone - Clicked on search job 
+2021-12-08 19:12:58,516 [main] INFO Jombone - Clicked on Home button  
+2021-12-08 19:12:58,527 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-08 19:12:58,527 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:12:58,755 [main] INFO Jombone - Mouse hover on me button
+2021-12-08 19:12:58,852 [main] INFO Jombone - Mouse hover Link Displayed
+2021-12-08 19:13:00,323 [main] INFO Jombone - Clicked on Preferences
+2021-12-08 19:13:00,330 [main] INFO Jombone - User is on Preferences Page
+2021-12-08 19:13:03,477 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:13:06,883 [main] INFO Jombone - Started Logintest
+2021-12-08 19:13:07,911 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:13:12,430 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:13:12,430 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:13:15,600 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:13:19,176 [main] INFO Jombone - Started Logintest
+2021-12-08 19:13:20,188 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:13:24,819 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:13:24,820 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:13:26,672 [main] INFO Jombone - Clicked on search job 
+2021-12-08 19:13:28,707 [main] INFO Jombone - Clicked on Home button  
+2021-12-08 19:13:28,717 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-08 19:13:28,718 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:13:29,040 [main] INFO Jombone - Mouse hover on me button
+2021-12-08 19:13:29,286 [main] INFO Jombone - Mouse hover Link Displayed
+2021-12-08 19:13:30,284 [main] INFO Jombone - Clicked on My Profile 
+2021-12-08 19:13:30,305 [main] INFO Jombone - User is on Candidate Profile
+2021-12-08 19:13:31,043 [main] INFO Jombone - Clicked on Settings
+2021-12-08 19:13:31,068 [main] INFO Jombone - User is on Settings Window
+2021-12-08 19:13:34,159 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:13:37,563 [main] INFO Jombone - Started Logintest
+2021-12-08 19:13:38,709 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:13:43,766 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:13:43,767 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:13:45,708 [main] INFO Jombone -  Clicked on job title 
+2021-12-08 19:13:45,764 [main] INFO Jombone - job title is Visible
+2021-12-08 19:13:46,844 [main] INFO Jombone -  Clicked on Posted job 
+2021-12-08 19:13:49,828 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:13:53,284 [main] INFO Jombone - Started Logintest
+2021-12-08 19:13:54,691 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:13:59,399 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:13:59,399 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:14:01,174 [main] INFO Jombone - Clicked on search job 
+2021-12-08 19:14:03,786 [main] INFO Jombone - Clicked on Home button  
+2021-12-08 19:14:03,821 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-08 19:14:03,821 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:14:04,397 [main] INFO Jombone - Enter text in Search text box 
+2021-12-08 19:14:06,034 [main] INFO Jombone - Software Developer 
+2021-12-08 19:14:06,079 [main] INFO Jombone - Software Developer is not Selected 
+2021-12-08 19:14:09,102 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:14:12,447 [main] INFO Jombone - Started Logintest
+2021-12-08 19:14:13,596 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:14:18,352 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:14:18,352 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:14:20,185 [main] INFO Jombone - Clicked on search job 
+2021-12-08 19:14:22,194 [main] INFO Jombone - Clicked on Home button  
+2021-12-08 19:14:22,206 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-08 19:14:22,207 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:14:24,533 [main] INFO Jombone - Clicked on Jombone button 
+2021-12-08 19:14:24,542 [main] INFO Jombone - Test Passed! User is on Dashboard!
+2021-12-08 19:14:24,543 [main] INFO Jombone - Test Completed User is on dashboard
+2021-12-08 19:14:27,853 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:14:32,090 [main] INFO Jombone - Started Logintest
+2021-12-08 19:14:33,169 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:14:38,246 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:14:38,248 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:14:40,089 [main] INFO Jombone - Clicked on search job 
+2021-12-08 19:14:42,270 [main] INFO Jombone - Clicked on Home button  
+2021-12-08 19:14:42,319 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-08 19:14:42,320 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:14:42,641 [main] INFO Jombone - Enter text in Search text box 
+2021-12-08 19:14:44,198 [main] INFO Jombone - Software Developer 
+2021-12-08 19:14:44,264 [main] INFO Jombone - Software Developer is not Selected 
+2021-12-08 19:14:44,577 [main] INFO Jombone - Negative Search box
+2021-12-08 19:14:44,660 [main] INFO Jombone - Entered Negative text Displayed
+2021-12-08 19:14:47,971 [main] DEBUG Jombone - Debug logging has started 
+2021-12-08 19:14:51,388 [main] INFO Jombone - Started Logintest
+2021-12-08 19:14:52,708 [main] INFO Jombone - Clicked on Login
+2021-12-08 19:14:57,422 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-08 19:14:57,422 [main] INFO Jombone - Completed Logintest
+2021-12-08 19:14:59,348 [main] INFO Jombone -  Clicked on job title 
+2021-12-08 19:14:59,420 [main] INFO Jombone - Company Name Visiable
+2021-12-10 11:25:52,757 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:25:55,467 [main] INFO Jombone - Started Logintest
+2021-12-10 11:25:56,429 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:25:59,867 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:25:59,867 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:26:01,184 [main] INFO Jombone - Clicked on search job 
+2021-12-10 11:26:02,573 [main] INFO Jombone - Clicked on Home button  
+2021-12-10 11:26:02,586 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-10 11:26:02,587 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:26:04,087 [main] INFO Jombone - Clicked on Jombone button 
+2021-12-10 11:26:04,093 [main] INFO Jombone - Test Passed! User is on Dashboard!
+2021-12-10 11:26:04,093 [main] INFO Jombone - Test Completed User is on dashboard
+2021-12-10 11:26:19,560 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:26:22,065 [main] INFO Jombone - Started Logintest
+2021-12-10 11:26:22,830 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:26:26,331 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:26:26,331 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:26:27,484 [main] INFO Jombone -  Clicked on job title 
+2021-12-10 11:26:27,567 [main] INFO Jombone - job title is Visible
+2021-12-10 11:26:28,336 [main] INFO Jombone -  Clicked on Posted job 
+2021-12-10 11:26:48,708 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:26:51,029 [main] INFO Jombone - Started Logintest
+2021-12-10 11:26:51,914 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:26:55,526 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:26:55,526 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:26:57,133 [main] INFO Jombone -  Clicked on job title 
+2021-12-10 11:26:57,183 [main] INFO Jombone - Company Name Visiable
+2021-12-10 11:27:21,342 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:27:23,816 [main] INFO Jombone - Started Logintest
+2021-12-10 11:27:24,544 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:27:28,023 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:27:28,024 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:27:29,507 [main] INFO Jombone - Clicked on search job 
+2021-12-10 11:27:31,089 [main] INFO Jombone - Clicked on Home button  
+2021-12-10 11:27:31,108 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-10 11:27:31,109 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:27:31,300 [main] INFO Jombone - Mouse hover on me button
+2021-12-10 11:27:31,364 [main] INFO Jombone - Mouse hover Link Displayed
+2021-12-10 11:27:31,508 [main] INFO Jombone - Clicked on Logout button
+2021-12-10 11:27:31,934 [main] INFO Jombone - Clicked on Logout yes button
+2021-12-10 11:27:31,941 [main] INFO Jombone - Test Passed! Logout Successful!
+2021-12-10 11:27:31,941 [main] INFO Jombone - Completed Logout test
+2021-12-10 11:27:34,420 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:27:36,630 [main] INFO Jombone - Started Logintest
+2021-12-10 11:27:37,406 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:27:40,908 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:27:40,909 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:27:42,316 [main] INFO Jombone -  Clicked on job title 
+2021-12-10 11:27:42,365 [main] INFO Jombone - Job Location visible
+2021-12-10 11:27:44,913 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:27:47,057 [main] INFO Jombone - Started Logintest
+2021-12-10 11:27:47,796 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:27:51,162 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:27:51,163 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:27:52,548 [main] INFO Jombone - Clicked on search job 
+2021-12-10 11:27:54,269 [main] INFO Jombone - Clicked on Home button  
+2021-12-10 11:27:54,278 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-10 11:27:54,278 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:27:54,452 [main] INFO Jombone - Mouse hover on me button
+2021-12-10 11:27:54,514 [main] INFO Jombone - Mouse hover Link Displayed
+2021-12-10 11:27:57,038 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:27:59,311 [main] INFO Jombone - Started Logintest
+2021-12-10 11:28:00,007 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:28:03,392 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:28:03,392 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:28:04,566 [main] INFO Jombone - Clicked on search job 
+2021-12-10 11:28:05,889 [main] INFO Jombone - Clicked on Home button  
+2021-12-10 11:28:05,895 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-10 11:28:05,896 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:28:06,073 [main] INFO Jombone - Mouse hover on me button
+2021-12-10 11:28:06,131 [main] INFO Jombone - Mouse hover Link Displayed
+2021-12-10 11:28:06,911 [main] INFO Jombone - Clicked on My Profile 
+2021-12-10 11:28:06,925 [main] INFO Jombone - User is on Candidate Profile
+2021-12-10 11:28:09,414 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:28:11,707 [main] INFO Jombone - Started Logintest
+2021-12-10 11:28:12,487 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:28:15,883 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:28:15,883 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:28:17,071 [main] INFO Jombone - Clicked on search job 
+2021-12-10 11:28:18,472 [main] INFO Jombone - Clicked on Home button  
+2021-12-10 11:28:18,481 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-10 11:28:18,481 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:28:21,070 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:28:23,224 [main] INFO Jombone - Started Logintest
+2021-12-10 11:28:23,991 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:28:27,312 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:28:27,313 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:28:28,688 [main] INFO Jombone - Clicked on search job 
+2021-12-10 11:28:30,072 [main] INFO Jombone - Clicked on Home button  
+2021-12-10 11:28:30,080 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-10 11:28:30,081 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:28:30,248 [main] INFO Jombone - Mouse hover on me button
+2021-12-10 11:28:30,318 [main] INFO Jombone - Mouse hover Link Displayed
+2021-12-10 11:28:31,566 [main] INFO Jombone - Clicked on Preferences
+2021-12-10 11:28:31,572 [main] INFO Jombone - User is on Preferences Page
+2021-12-10 11:28:34,091 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:28:36,395 [main] INFO Jombone - Started Logintest
+2021-12-10 11:28:37,048 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:28:40,294 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:28:40,294 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:28:42,987 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:28:45,225 [main] INFO Jombone - Started Logintest
+2021-12-10 11:28:45,948 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:28:49,197 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:28:49,197 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:28:51,071 [main] INFO Jombone - Clicked on search job 
+2021-12-10 11:28:53,021 [main] INFO Jombone - Clicked on Home button  
+2021-12-10 11:28:53,028 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-10 11:28:53,028 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:28:53,190 [main] INFO Jombone - Mouse hover on me button
+2021-12-10 11:28:53,250 [main] INFO Jombone - Mouse hover Link Displayed
+2021-12-10 11:28:53,967 [main] INFO Jombone - Clicked on My Profile 
+2021-12-10 11:28:53,974 [main] INFO Jombone - User is on Candidate Profile
+2021-12-10 11:28:54,585 [main] INFO Jombone - Clicked on Settings
+2021-12-10 11:28:54,593 [main] INFO Jombone - User is on Settings Window
+2021-12-10 11:28:57,163 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:28:59,492 [main] INFO Jombone - Started Logintest
+2021-12-10 11:29:00,261 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:29:03,601 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:29:03,601 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:29:04,786 [main] INFO Jombone -  Clicked on job title 
+2021-12-10 11:29:04,833 [main] INFO Jombone - Job title is Visible
+2021-12-10 11:29:05,471 [main] INFO Jombone -  Clicked on Posted job 
+2021-12-10 11:29:08,026 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:29:10,470 [main] INFO Jombone - Started Logintest
+2021-12-10 11:29:11,367 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:29:14,834 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:29:14,834 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:29:16,245 [main] INFO Jombone - Clicked on search job 
+2021-12-10 11:29:17,780 [main] INFO Jombone - Clicked on Home button  
+2021-12-10 11:29:17,797 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-10 11:29:17,797 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:29:17,945 [main] INFO Jombone - Enter text in Search text box 
+2021-12-10 11:29:19,368 [main] INFO Jombone - Software Developer 
+2021-12-10 11:29:19,407 [main] INFO Jombone - Software Developer is not Selected 
+2021-12-10 11:29:21,967 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:29:24,145 [main] INFO Jombone - Started Logintest
+2021-12-10 11:29:24,957 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:29:28,366 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:29:28,367 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:29:29,702 [main] INFO Jombone - Clicked on search job 
+2021-12-10 11:29:31,333 [main] INFO Jombone - Clicked on Home button  
+2021-12-10 11:29:31,338 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-10 11:29:31,338 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:29:32,679 [main] INFO Jombone - Clicked on Jombone button 
+2021-12-10 11:29:32,683 [main] INFO Jombone - Test Passed! User is on Dashboard!
+2021-12-10 11:29:32,683 [main] INFO Jombone - Test Completed User is on dashboard
+2021-12-10 11:29:35,252 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:29:37,470 [main] INFO Jombone - Started Logintest
+2021-12-10 11:29:38,236 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:29:41,945 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:29:41,945 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:29:43,249 [main] INFO Jombone - Clicked on search job 
+2021-12-10 11:29:45,006 [main] INFO Jombone - Clicked on Home button  
+2021-12-10 11:29:45,010 [main] INFO Jombone - Test Passed!  User is on Dashboard!
+2021-12-10 11:29:45,010 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:29:45,143 [main] INFO Jombone - Enter text in Search text box 
+2021-12-10 11:29:46,339 [main] INFO Jombone - Software Developer 
+2021-12-10 11:29:46,370 [main] INFO Jombone - Software Developer is not Selected 
+2021-12-10 11:29:46,528 [main] INFO Jombone - Negative Search box
+2021-12-10 11:29:46,555 [main] INFO Jombone - Entered Negative text Displayed
+2021-12-10 11:29:49,203 [main] DEBUG Jombone - Debug logging has started 
+2021-12-10 11:29:51,358 [main] INFO Jombone - Started Logintest
+2021-12-10 11:29:52,038 [main] INFO Jombone - Clicked on Login
+2021-12-10 11:29:55,440 [main] INFO Jombone - Test Passed! Login Successful!
+2021-12-10 11:29:55,440 [main] INFO Jombone - Completed Logintest
+2021-12-10 11:29:56,811 [main] INFO Jombone -  Clicked on job title 
+2021-12-10 11:29:56,866 [main] INFO Jombone - Company Name Visiable

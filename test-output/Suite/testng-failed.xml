@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Test001(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC009ME_Button_Logout_Test">
+        <methods>
+          <include name="TestCase003"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC009ME_Button_Logout_Test -->
+    </classes>
+  </test> <!-- Test001(failed) -->
+  <test thread-count="5" name="Test002(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC005Me_Button">
+        <methods>
+          <include name="TestCase005"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC005Me_Button -->
+    </classes>
+  </test> <!-- Test002(failed) -->
+  <test thread-count="5" name="Test003(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC002Home_Test">
+        <methods>
+          <include name="TestCase001"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC002Home_Test -->
+    </classes>
+  </test> <!-- Test003(failed) -->
+  <test thread-count="5" name="Test005(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC0011JobTitleTest">
+        <methods>
+          <include name="TC004"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC0011JobTitleTest -->
+    </classes>
+  </test> <!-- Test005(failed) -->
+  <test thread-count="5" name="Test006(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC0010ME_Button_Jombone_test">
+        <methods>
+          <include name="TestC004"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC0010ME_Button_Jombone_test -->
+    </classes>
+  </test> <!-- Test006(failed) -->
+  <test thread-count="5" name="Test008(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC13JobLoctionTest">
+        <methods>
+          <include name="TC0013"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC13JobLoctionTest -->
+    </classes>
+  </test> <!-- Test008(failed) -->
+  <test thread-count="5" name="Test009(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC006MeButton_MYProfile">
+        <methods>
+          <include name="tearDown"/>
+          <include name="TestCase002"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC006MeButton_MYProfile -->
+    </classes>
+  </test> <!-- Test009(failed) -->
+  <test thread-count="5" name="Test0010(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC008Me_Button_Preferences">
+        <methods>
+          <include name="TestCase008"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC008Me_Button_Preferences -->
+    </classes>
+  </test> <!-- Test0010(failed) -->
+  <test thread-count="5" name="Test0011(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC007Me_Button_Setting">
+        <methods>
+          <include name="TestCase002"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC007Me_Button_Setting -->
+    </classes>
+  </test> <!-- Test0011(failed) -->
+  <test thread-count="5" name="Test0012(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC003SearchBoxPositive">
+        <methods>
+          <include name="search001"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC003SearchBoxPositive -->
+    </classes>
+  </test> <!-- Test0012(failed) -->
+  <test thread-count="5" name="Test0013(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC004SearchNegative">
+        <methods>
+          <include name="search001"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC004SearchNegative -->
+    </classes>
+  </test> <!-- Test0013(failed) -->
+  <test thread-count="5" name="Test0014(failed)">
+    <classes>
+      <class name="com.testCases.CA_TC0012CompanyNameTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="TC0012"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testCases.CA_TC0012CompanyNameTest -->
+    </classes>
+  </test> <!-- Test0014(failed) -->
+</suite> <!-- Failed suite [Suite] -->

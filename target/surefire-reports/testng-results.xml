@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="154847" started-at="2021-12-08T19:52:28Z" finished-at="2021-12-08T19:55:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="154847" started-at="2021-12-08T19:52:28Z" finished-at="2021-12-08T19:55:03Z">
+      <class name="com.testCases.CA_TC007Me_Button_Setting">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC007Me_Button_Setting@5419f379]" name="setup" is-config="true" duration-ms="3879" started-at="2021-12-08T19:53:50Z" finished-at="2021-12-08T19:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestCase002()[pri:0, instance:com.testCases.CA_TC007Me_Button_Setting@5419f379]" name="TestCase002" duration-ms="8423" started-at="2021-12-08T19:53:54Z" finished-at="2021-12-08T19:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC007Me_Button_Setting@5419f379]" name="tearDown" is-config="true" duration-ms="714" started-at="2021-12-08T19:54:02Z" finished-at="2021-12-08T19:54:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC007Me_Button_Setting -->
+      <class name="com.testCases.CA_TC008Me_Button_Preferences">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC008Me_Button_Preferences@4520ebad]" name="setup" is-config="true" duration-ms="3873" started-at="2021-12-08T19:53:28Z" finished-at="2021-12-08T19:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestCase008()[pri:0, instance:com.testCases.CA_TC008Me_Button_Preferences@4520ebad]" name="TestCase008" duration-ms="8416" started-at="2021-12-08T19:53:32Z" finished-at="2021-12-08T19:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase008 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC008Me_Button_Preferences@4520ebad]" name="tearDown" is-config="true" duration-ms="748" started-at="2021-12-08T19:53:41Z" finished-at="2021-12-08T19:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC008Me_Button_Preferences -->
+      <class name="com.testCases.CA_TC0012CompanyNameTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC0012CompanyNameTest@4f933fd1]" name="setup" is-config="true" duration-ms="3793" started-at="2021-12-08T19:54:53Z" finished-at="2021-12-08T19:54:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC0012()[pri:0, instance:com.testCases.CA_TC0012CompanyNameTest@4f933fd1]" name="TC0012" duration-ms="5311" started-at="2021-12-08T19:54:57Z" finished-at="2021-12-08T19:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC0012 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC0012CompanyNameTest@4f933fd1]" name="tearDown" is-config="true" duration-ms="754" started-at="2021-12-08T19:55:02Z" finished-at="2021-12-08T19:55:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC0012CompanyNameTest -->
+      <class name="com.testCases.CA_TC0011JobTitleTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC0011JobTitleTest@9629756]" name="setup" is-config="true" duration-ms="4170" started-at="2021-12-08T19:54:03Z" finished-at="2021-12-08T19:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC004()[pri:0, instance:com.testCases.CA_TC0011JobTitleTest@9629756]" name="TC004" duration-ms="6193" started-at="2021-12-08T19:54:07Z" finished-at="2021-12-08T19:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC0011JobTitleTest@9629756]" name="tearDown" is-config="true" duration-ms="907" started-at="2021-12-08T19:54:13Z" finished-at="2021-12-08T19:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC0011JobTitleTest -->
+      <class name="com.testCases.CA_TC006MeButton_MYProfile">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC006MeButton_MYProfile@58651fd0]" name="setup" is-config="true" duration-ms="4030" started-at="2021-12-08T19:53:05Z" finished-at="2021-12-08T19:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestCase002()[pri:0, instance:com.testCases.CA_TC006MeButton_MYProfile@58651fd0]" name="TestCase002" duration-ms="7815" started-at="2021-12-08T19:53:09Z" finished-at="2021-12-08T19:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC006MeButton_MYProfile@58651fd0]" name="tearDown" is-config="true" duration-ms="751" started-at="2021-12-08T19:53:17Z" finished-at="2021-12-08T19:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC006MeButton_MYProfile -->
+      <class name="com.testCases.CA_TC009ME_Button_Logout_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC009ME_Button_Logout_Test@5034c75a]" name="setup" is-config="true" duration-ms="5160" started-at="2021-12-08T19:52:28Z" finished-at="2021-12-08T19:52:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestCase003()[pri:0, instance:com.testCases.CA_TC009ME_Button_Logout_Test@5034c75a]" name="TestCase003" duration-ms="8124" started-at="2021-12-08T19:52:33Z" finished-at="2021-12-08T19:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase003 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC009ME_Button_Logout_Test@5034c75a]" name="tearDown" is-config="true" duration-ms="734" started-at="2021-12-08T19:52:41Z" finished-at="2021-12-08T19:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC009ME_Button_Logout_Test -->
+      <class name="com.testCases.CA_TC001LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC001LoginTest@7f9a81e8]" name="setup" is-config="true" duration-ms="3853" started-at="2021-12-08T19:53:41Z" finished-at="2021-12-08T19:53:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:com.testCases.CA_TC001LoginTest@7f9a81e8]" name="Logintest" duration-ms="3997" started-at="2021-12-08T19:53:45Z" finished-at="2021-12-08T19:53:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC001LoginTest@7f9a81e8]" name="tearDown" is-config="true" duration-ms="753" started-at="2021-12-08T19:53:49Z" finished-at="2021-12-08T19:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC001LoginTest -->
+      <class name="com.testCases.CA_TC004SearchNegative">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC004SearchNegative@d2cc05a]" name="setup" is-config="true" duration-ms="3883" started-at="2021-12-08T19:54:40Z" finished-at="2021-12-08T19:54:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="search001()[pri:0, instance:com.testCases.CA_TC004SearchNegative@d2cc05a]" name="search001" duration-ms="8319" started-at="2021-12-08T19:54:44Z" finished-at="2021-12-08T19:54:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC004SearchNegative@d2cc05a]" name="tearDown" is-config="true" duration-ms="734" started-at="2021-12-08T19:54:52Z" finished-at="2021-12-08T19:54:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC004SearchNegative -->
+      <class name="com.testCases.CA_TC0010ME_Button_Jombone_test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC0010ME_Button_Jombone_test@62ee68d8]" name="setup" is-config="true" duration-ms="3828" started-at="2021-12-08T19:54:28Z" finished-at="2021-12-08T19:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestC004()[pri:0, instance:com.testCases.CA_TC0010ME_Button_Jombone_test@62ee68d8]" name="TestC004" duration-ms="7992" started-at="2021-12-08T19:54:31Z" finished-at="2021-12-08T19:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestC004 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC0010ME_Button_Jombone_test@62ee68d8]" name="tearDown" is-config="true" duration-ms="764" started-at="2021-12-08T19:54:39Z" finished-at="2021-12-08T19:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC0010ME_Button_Jombone_test -->
+      <class name="com.testCases.CA_TC003SearchBoxPositive">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC003SearchBoxPositive@7dc7cbad]" name="setup" is-config="true" duration-ms="3845" started-at="2021-12-08T19:54:14Z" finished-at="2021-12-08T19:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="search001()[pri:0, instance:com.testCases.CA_TC003SearchBoxPositive@7dc7cbad]" name="search001" duration-ms="8669" started-at="2021-12-08T19:54:18Z" finished-at="2021-12-08T19:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC003SearchBoxPositive@7dc7cbad]" name="tearDown" is-config="true" duration-ms="782" started-at="2021-12-08T19:54:27Z" finished-at="2021-12-08T19:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC003SearchBoxPositive -->
+      <class name="com.testCases.CA_TC005Me_Button">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC005Me_Button@396a51ab]" name="setup" is-config="true" duration-ms="3932" started-at="2021-12-08T19:52:52Z" finished-at="2021-12-08T19:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestCase005()[pri:0, instance:com.testCases.CA_TC005Me_Button@396a51ab]" name="TestCase005" duration-ms="7630" started-at="2021-12-08T19:52:56Z" finished-at="2021-12-08T19:53:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase005 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC005Me_Button@396a51ab]" name="tearDown" is-config="true" duration-ms="755" started-at="2021-12-08T19:53:04Z" finished-at="2021-12-08T19:53:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC005Me_Button -->
+      <class name="com.testCases.CA_TC13JobLoctionTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC13JobLoctionTest@735b5592]" name="setup" is-config="true" duration-ms="3919" started-at="2021-12-08T19:52:42Z" finished-at="2021-12-08T19:52:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC0013()[pri:0, instance:com.testCases.CA_TC13JobLoctionTest@735b5592]" name="TC0013" duration-ms="5601" started-at="2021-12-08T19:52:46Z" finished-at="2021-12-08T19:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC0013 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC13JobLoctionTest@735b5592]" name="tearDown" is-config="true" duration-ms="740" started-at="2021-12-08T19:52:52Z" finished-at="2021-12-08T19:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC13JobLoctionTest -->
+      <class name="com.testCases.CA_TC002Home_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testCases.CA_TC002Home_Test@51081592]" name="setup" is-config="true" duration-ms="3896" started-at="2021-12-08T19:53:17Z" finished-at="2021-12-08T19:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestCase001()[pri:0, instance:com.testCases.CA_TC002Home_Test@51081592]" name="TestCase001" duration-ms="6373" started-at="2021-12-08T19:53:21Z" finished-at="2021-12-08T19:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.CA_TC002Home_Test@51081592]" name="tearDown" is-config="true" duration-ms="743" started-at="2021-12-08T19:53:28Z" finished-at="2021-12-08T19:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.CA_TC002Home_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
